@@ -1,0 +1,144 @@
+/* ---------------------------------------------- COLUMN 1 ---------------------------------------------- */
+            
+/* 1 */
+h1 {
+    color: blue;
+    font-family: Arial;
+    text-align: center;
+}
+
+/* 2 */
+p {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+}
+
+/* 3 */
+.default-first {
+    color: violet;
+    font-family: Arial;
+}
+
+/* 4 */
+.padding {
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+/* 5 */
+.paddingTitle {
+    padding-left: 650px;
+    padding-right: 650px;
+}
+
+/* 6 */
+.container {
+    display: flex;
+}
+
+ /* 7 */
+.column {
+    flex: 1;
+    padding: 20px;
+}
+
+/* 8 */
+h2 {
+    color: red;
+    font-family: Arial;
+    text-align: center;
+}
+
+/* ---------------------------------------------- COLUMN 2 ---------------------------------------------- */
+
+/* 9 */
+#background-color {
+    background-color: pink;
+}
+
+/* 10 */
+.underline-text {
+    text-decoration: underline;
+}
+
+/* 11 */
+h3 {
+    color: green;
+    font-family: Arial;
+    text-align: center;
+}
+
+/* 12 */
+.default-second {
+    color: orange;
+    font-family: Arial;
+}
+
+/* 13 */
+.default-third {
+    color: red;
+    font-family: Arial;
+}
+
+/* 14 */
+.bold-text {
+    font-weight: bold;
+}
+
+/* 15 */
+.uppercase-text {
+    text-transform: uppercase;
+}
+
+/* 16 */
+.shadowed-text {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+/* ---------------------------------------------- COLUMN 3 ---------------------------------------------- */
+
+/* 17 */
+.box-shadow {
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+/* 18 */
+.absolute {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+/* 19 */
+ul {
+    list-style-type: square;
+}
+
+/* 20 */
+.transparent {
+    opacity: 0.7;
+}
+
+/* 21 */
+.font-style {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* 22 */
+.rotate {
+    transform: rotate(45deg);
+}
+
+/* 23 */
+.gradient-background {
+    background: linear-gradient(to right, #ff5733, #ffcc00);
+}
+
+/* 24 */
+.lowercase-text {
+    text-transform: lowercase;
+}
